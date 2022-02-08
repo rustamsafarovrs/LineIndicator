@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="default_count">3</integer>
+
+    <dimen name="default_line_space">3dp</dimen>
+    <dimen name="default_line_radius">2dp</dimen>
+    <dimen name="default_line_width">2dp</dimen>
+
+    <color name="default_line_color">#80FFFFFF</color>
+    <color name="default_selected_line_color">#FFFFFF</color>
+
+</resources>
