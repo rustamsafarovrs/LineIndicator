@@ -1,4 +1,4 @@
-package tj.rs.devteam.lineindicator
+package tj.rs.devteam.lineindicator.app
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity

@@ -1,9 +1,9 @@
-package tj.rs.devteam.lineindicator
+package tj.rs.devteam.lineindicator.app
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import tj.rs.devteam.lineindicator.databinding.ActivityMainBinding
+import tj.rs.devteam.lineindicator.app.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

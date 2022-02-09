@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "tj.rs.devteam.lineindicator"
+        applicationId "tj.rs.devteam.lineindicator.app"
         minSdk 22
         targetSdk 31
         versionCode 1

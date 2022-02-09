@@ -1,4 +1,4 @@
-package tj.rs.devteam.lineindicator
+package tj.rs.devteam.lineindicator.app
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.DrawableRes
 import androidx.fragment.app.Fragment
-import tj.rs.devteam.lineindicator.databinding.ViewImageSlideBinding
+import tj.rs.devteam.lineindicator.app.databinding.ViewImageSlideBinding
 
 class ScreenSlidePageFragment() : Fragment() {
 
